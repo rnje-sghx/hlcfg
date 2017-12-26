@@ -1,0 +1,13 @@
+resolution 640
+sensitivity 2.4
+windows sens 6/11
+zoom sens 0.8
+xhair size ___LARGE___
+xhair trans 0
+mousefix on
+launch options
+cs: -noforcemparms -noforcemaccel -noforcemspd -freq 75
+hl: -noforcemparms -noforcemaccel -noforcemspd -freq 75
+m_filter 0
+mouse dpi/hz/whatever default
+righthand 1
